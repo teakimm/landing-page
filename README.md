@@ -1,1 +1,1 @@
-# landing-page
+HTML and CSS practice using flexbox to copy an example page
